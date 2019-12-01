@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 26, 2019, 4:44:02 PM
+    Author     : Chelsea
+*/
+body{
+    font-family: Georgia, Arial;
+}
+header {
+  padding: 30px;
+  text-align: center;
+  background: purple;
+  color: white;
+}
+
+nav {
+    padding: 10px;
+    text-align: left;
+    text-size: 10px;
+    background:lightcoral;
+    color: white;
+}
+
+nav a{
+    padding: 10px 50px;
+    text-decoration: none;
+}
+
+nav a:hover {
+  background-color: violet;
+  color: black;
+}
+
+div {
+    text-align: center;
+    background-color: peachpuff;
+    padding: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
+
+footer {
+  padding: 30px;
+  background: purple;
+  color: white;
+}
+
+
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td {
+    text-align: right;
+    padding: 10px;
+}
